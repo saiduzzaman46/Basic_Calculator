@@ -1,7 +1,11 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
 }
 body {
   background-color: #f0f0f0;
@@ -14,7 +18,7 @@ body {
 
 .calculator {
   background-color: #20211a;
-  border-radius: 5px;
+  border-radius: 0.5rem;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   overflow: hidden;
   padding: 10px;
@@ -24,8 +28,8 @@ body {
 }
 .display-content {
   background-color: inherit;
-  padding: 5px 0px;
-  height: 60px;
+  padding: 0.5rem 0rem;
+  height: 6rem;
   width: auto;
   text-align: right;
   display: flex;
@@ -33,15 +37,15 @@ body {
 }
 .claculate_value {
   background-color: inherit;
-  color: #a6a6a3;
-  font-size: 15px;
+  color: #ababaa;
+  font-size: 1.5rem;
   text-align: right;
   border: none;
 }
 .display {
   background-color: inherit;
   color: #fff;
-  font-size: 30px;
+  font-size: 3rem;
   text-align: right;
   border: none;
 }
@@ -54,8 +58,8 @@ body {
 button {
   background-color: #3c3c3c;
   color: #fff;
-  font-size: 20px;
-  padding: 15px 10px;
+  font-size: 2rem;
+  padding: 1.5rem 1rem;
   border: none;
   cursor: pointer;
   border-radius: 5px;
