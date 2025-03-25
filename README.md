@@ -1,4 +1,5 @@
 # Basic_Calculator
+The objective of this project is to create a fully functional calculator using HTML, CSS, and JavaScript. The calculator supports basic arithmetic operations such as addition, subtraction, multiplication, and division. It also includes advanced scientific functions like square, square root, factorial, and percentage.
 
 ## Click ↓
 https://saiduzzaman46.github.io/Basic_Calculator/
